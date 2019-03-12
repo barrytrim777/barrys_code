@@ -1,0 +1,22 @@
+ name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - partd
+  - bokeh
+  - dask
+  - sklearn
+  - re
+  - glob
+  - os
+  - sys
+  - seaborn
+  - time
+  - datetime
+  
