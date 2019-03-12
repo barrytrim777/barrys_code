@@ -11,12 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - sklearn
-  - re
-  - glob
-  - os
-  - sys
+  - scikit-learn
   - seaborn
   - time
-  - datetime
   
